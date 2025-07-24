@@ -1,4 +1,4 @@
-let nombre = "Sandrita"
+let nombre = "Sandita"
 let apellido = "Hojman"
 
 saludo = (`Hola ${nombre} ${apellido}, cómo estás ?`)
